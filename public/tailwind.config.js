@@ -6,7 +6,6 @@ module.exports = {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   darkMode: "class",
-
   theme: {
     fontSize: {
       "2xs": ["0.75rem", { lineHeight: "1.25rem" }],
